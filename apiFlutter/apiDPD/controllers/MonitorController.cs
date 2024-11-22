@@ -22,7 +22,14 @@ public class MonitorController : ControllerBase
     [HttpGet]
     public async Task<IActionResult> GetAllMonitors()
     {
-        return Ok(_monitores);
+        // Seleciona apenas os atributos 'Nome' e 'urlFoto' dos monitores
+        var result = _monitores.Select(m => new 
+        {
+            Nome = m.Nome,         
+            UrlFoto = m.UrlFoto     
+        }).ToList();
+
+        return Ok(result);
     }
 
     // GET: api/Monitor/{nome}

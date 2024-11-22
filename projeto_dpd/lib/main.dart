@@ -1,18 +1,22 @@
 import 'package:flutter/material.dart';
+import 'package:projeto_dpd/widgets/card.dart';
+import 'package:projeto_dpd/widgets/carrossel.dart';
+import 'package:projeto_dpd/monitorservice.dart';
 
 void main() {
-  runApp(const MainApp());
+  runApp(MyApp());
 }
 
-class MainApp extends StatelessWidget {
-  const MainApp({super.key});
+class MyApp extends StatelessWidget {
+  Future<List<Map<String, dynamic>>> monitors = MonitorService().fetchMonitors();
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       home: Scaffold(
+        appBar: AppBar(title: const Text('Carrossel de Cards')),
         body: Center(
-          child: Text("Olá, Mundooo!"),
+          child: CardCarousel(items: monitors),
         ),
       ),
     );
