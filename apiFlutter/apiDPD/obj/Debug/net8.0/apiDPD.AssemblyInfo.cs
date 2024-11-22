@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("apiDPD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f0cf041d2819b6cef9ab0658183c1ab24dd077e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85a8027afea1a37ba10ff00f129a1a3322bc1920")]
 [assembly: System.Reflection.AssemblyProductAttribute("apiDPD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("apiDPD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
