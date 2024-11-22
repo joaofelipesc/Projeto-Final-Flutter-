@@ -1,0 +1,6 @@
+@apiDPD_HostAddress = http://localhost:5136
+
+GET {{apiDPD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

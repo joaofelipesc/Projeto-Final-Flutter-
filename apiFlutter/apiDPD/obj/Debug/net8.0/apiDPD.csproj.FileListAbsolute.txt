@@ -1,0 +1,8 @@
+C:\Users\dudac\OneDrive\Documentos\JOAO COTUCA\2024\fluttersimone\Projeto-Final-Flutter-\apiFlutter\apiDPD\obj\Debug\net8.0\apiDPD.csproj.AssemblyReference.cache
+C:\Users\dudac\OneDrive\Documentos\JOAO COTUCA\2024\fluttersimone\Projeto-Final-Flutter-\apiFlutter\apiDPD\obj\Debug\net8.0\apiDPD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudac\OneDrive\Documentos\JOAO COTUCA\2024\fluttersimone\Projeto-Final-Flutter-\apiFlutter\apiDPD\obj\Debug\net8.0\apiDPD.AssemblyInfoInputs.cache
+C:\Users\dudac\OneDrive\Documentos\JOAO COTUCA\2024\fluttersimone\Projeto-Final-Flutter-\apiFlutter\apiDPD\obj\Debug\net8.0\apiDPD.AssemblyInfo.cs
+C:\Users\dudac\OneDrive\Documentos\JOAO COTUCA\2024\fluttersimone\Projeto-Final-Flutter-\apiFlutter\apiDPD\obj\Debug\net8.0\apiDPD.csproj.CoreCompileInputs.cache
+C:\Users\dudac\OneDrive\Documentos\JOAO COTUCA\2024\fluttersimone\Projeto-Final-Flutter-\apiFlutter\apiDPD\obj\Debug\net8.0\apiDPD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dudac\OneDrive\Documentos\JOAO COTUCA\2024\fluttersimone\Projeto-Final-Flutter-\apiFlutter\apiDPD\obj\Debug\net8.0\apiDPD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dudac\OneDrive\Documentos\JOAO COTUCA\2024\fluttersimone\Projeto-Final-Flutter-\apiFlutter\apiDPD\obj\Debug\net8.0\apiDPD.sourcelink.json
